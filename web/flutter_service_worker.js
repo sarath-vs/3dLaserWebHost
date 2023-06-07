@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "24e61ccde29d3959512e8758b3a95972",
-"index.html": "0378e8d6039dfd769933b09dabac3dcc",
-"/": "0378e8d6039dfd769933b09dabac3dcc",
-"main.dart.js": "24af2c61d9d5ff0c18ad1faa97ec064e",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "8548bace9eb37a965797e6e4d08ec643",
+"/": "8548bace9eb37a965797e6e4d08ec643",
+"main.dart.js": "29feda71177381c0a7de85dbc643711f",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -36,11 +35,7 @@ const RESOURCES = {
 "assets/assets/Door_images/door-instruation-image-2.jpg": "47ef7fc8521a667e7544984e1d5f3a82",
 "assets/assets/Door_images/door1%2520image%25201%25204.jpg": "c904c5b1c1ebbfc317983cd5a44ebb82",
 "assets/assets/Door_images/door1%2520image%25203.jpg": "44bfe665a15979e95977200e9a506026",
-"assets/assets/Door_images/door1%2520image%25201.jpg": "66539dc0ec326e9622ed02dd00a2ecf0",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/Door_images/door1%2520image%25201.jpg": "66539dc0ec326e9622ed02dd00a2ecf0"
 };
 
 // The application shell files that are downloaded before a service worker can
